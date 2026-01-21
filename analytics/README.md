@@ -18,18 +18,20 @@ and as a foundation for future data models.
 
 analytics/
 ├── revenue/
-│   ├── revenue_by_day.sql
-│   ├── revenue_by_month.sql
-│   └── revenue_by_year.sql
+│ ├── revenue_by_day.sql
+│ ├── revenue_by_month.sql
+│ ├── revenue_by_year.sql
+│ ├── revenue_by_category_month.sql
+│ └── revenue_by_author_month.sql
 │
 ├── sales/
-│   ├── revenue_by_category_month.sql
-│   ├── aov_by_month.sql
-│   ├── total_units_sold.sql
-│   └── units_sold_by_book.sql
+│ ├── total_units_sold.sql
+│ ├── units_sold_by_book.sql
+│ └── aov_by_month.sql
 │
 └── orders/
-    └── orders_by_status.sql
+  └── orders_by_status.sql
+
 
 
 ## Conventions
