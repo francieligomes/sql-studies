@@ -1,6 +1,6 @@
 -- ============================================================
 -- METRIC: Revenue
--- GRAIN: Month, Category
+-- GRAIN: Year, Month, Category
 -- DESCRIPTION:
 --   Calculates total monthly revenue by product category.
 --   Revenue is computed as the sum of quantity multiplied
